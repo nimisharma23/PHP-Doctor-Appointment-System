@@ -455,7 +455,7 @@ alert('User already registered. Please try again');
         <!-- footer start -->
         <div class="copyright-bar bg-black">
             <div class="container">
-                <p class="pull-left small">© mohd mazlan - codedesign</p>
+                <p class="pull-left small">© Projectworlds <a href ="https://projectworlds.in/">Get More Projects </a></p>
                 <p class="pull-right small"><a href="adminlogin.php">admin</a></p>
             </div>
         </div>
